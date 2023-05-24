@@ -1,0 +1,20 @@
+.table {
+    margin: auto;
+    width: 600px;
+    justify-content: center;
+}
+
+.btn-primary{
+    display: flex;
+    margin: 50px auto;
+}
+
+.form-input {
+    margin: auto;
+    width: 400px;
+}
+
+.btn-success {
+    display: flex;
+    margin: auto;
+}
